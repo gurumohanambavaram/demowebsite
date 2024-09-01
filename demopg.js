@@ -1,6 +1,6 @@
 function copyPhoneNumber() {
     var tempInput = document.createElement("textarea");
-    tempInput.value = "+918888888888";
+    tempInput.value = "9985852147";
     document.body.appendChild(tempInput);
     tempInput.select();
     document.execCommand("copy");
